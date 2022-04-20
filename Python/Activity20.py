@@ -1,0 +1,13 @@
+import pandas
+dataframe=pandas.read_excel("sample.xlsx")
+print("Full data from xls")
+print(dataframe)
+print("================")
+print("Number of rows and columns")
+print(dataframe.shape)
+print("================")
+print("Data in the email column")
+print(dataframe["Email"])
+print("================")
+print("Sort fistname in ascending order")
+print(dataframe.sort_values("FirstName",ascending=True))
