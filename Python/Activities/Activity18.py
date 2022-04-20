@@ -1,0 +1,17 @@
+import pandas
+
+dataframe=pandas.read_csv("sample.csv")
+print("Full file data :")
+print(dataframe)
+print("======================")
+print("Usernames in the csv file :")
+print(dataframe["Usernames"])
+print("===================")
+print("Username and Password of second row :")
+print(dataframe["Usernames"][1]+ "   "+ dataframe["Passwords"][1])
+print("=================")
+print("Usernames in ascending order :")
+print(dataframe.sort_values("Usernames",ascending=True))
+print("====================")
+print("Passwords in descending order :")
+print(dataframe.sort_values("Passwords",ascending=False))
