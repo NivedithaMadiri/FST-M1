@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
+  <metric>
+    <icon>/delay_step.svg</icon>
+    <name>Start Time</name>
+    <category>Result Metrics</category>
+    <value>Mon Apr 11 15:17:18 IST 2022</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/delay_step.svg</icon>
+    <name>End Time</name>
+    <category>Result Metrics</category>
+    <value>Mon Apr 11 15:17:20 IST 2022</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/delay_step.svg</icon>
+    <name>Time Taken</name>
+    <category>Result Metrics</category>
+    <value>1450 ms</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/teststeps.gif</icon>
+    <name>TestStep Count</name>
+    <category>Result Metrics</category>
+    <value>4</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/teststeps.gif</icon>
+    <name>Failed TestStep Count</name>
+    <category>Result Metrics</category>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/assertions.png</icon>
+    <name>Assertion Count</name>
+    <category>Result Metrics</category>
+    <value>2</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <icon>/assertions.png</icon>
+    <name>Failed Assertion Count</name>
+    <category>Result Metrics</category>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+</metrics>

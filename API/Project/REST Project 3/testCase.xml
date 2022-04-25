@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testCase>
+  <testStep>
+    <disabled>false</disabled>
+    <label>GET</label>
+  </testStep>
+  <testStep>
+    <disabled>false</disabled>
+    <label>POST</label>
+  </testStep>
+  <testStep>
+    <disabled>false</disabled>
+    <label>PropertyTransfer 1</label>
+  </testStep>
+  <testStep>
+    <disabled>false</disabled>
+    <label>DELETE</label>
+  </testStep>
+</testCase>

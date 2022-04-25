@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseTestStepResults>
+  <result>
+    <timeTaken>346</timeTaken>
+    <name>GET</name>
+    <started>15:17:18.656</started>
+    <message>Step 1 [GET] UNKNOWN: took 346 ms</message>
+    <order>2</order>
+    <status>UNKNOWN</status>
+  </result>
+  <result>
+    <timeTaken>348</timeTaken>
+    <name>POST</name>
+    <started>15:17:19.087</started>
+    <message>Step 2 [POST] PASS: took 348 ms</message>
+    <order>3</order>
+    <status>PASS</status>
+  </result>
+  <result>
+    <timeTaken>106</timeTaken>
+    <name>PropertyTransfer 1</name>
+    <started>15:17:19.512</started>
+    <message>Step 3 [PropertyTransfer 1] PASS: took 106 ms
+ -> Performed transfer [id]</message>
+    <order>4</order>
+    <status>PASS</status>
+  </result>
+  <result>
+    <timeTaken>304</timeTaken>
+    <name>DELETE</name>
+    <started>15:17:19.648</started>
+    <message>Step 4 [DELETE] PASS: took 304 ms</message>
+    <order>5</order>
+    <status>PASS</status>
+  </result>
+</TestCaseTestStepResults>

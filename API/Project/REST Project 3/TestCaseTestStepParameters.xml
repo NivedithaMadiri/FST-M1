@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseTestStepParameters>
+  <parameters>
+    <iconPath>/rest_request_step.svg</iconPath>
+    <testStepName>GET</testStepName>
+  </parameters>
+  <parameters>
+    <iconPath>/rest_request_step.svg</iconPath>
+    <testStepName>POST</testStepName>
+  </parameters>
+  <parameters>
+    <iconPath>/property_transfer_step.svg</iconPath>
+    <testStepName>PropertyTransfer 1</testStepName>
+  </parameters>
+  <parameters>
+    <iconPath>/rest_request_step.svg</iconPath>
+    <testStepName>DELETE</testStepName>
+  </parameters>
+</TestCaseTestStepParameters>
